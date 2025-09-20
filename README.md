@@ -1,7 +1,7 @@
 # 📊 Unemployment Analysis | Python Data Analysis Project  
 
 A beginner-friendly **Python project** to analyze and visualize unemployment data.  
-This project focuses on data cleaning, exploration, and visualization while investigating the **impact of Covid-19 on unemployment trends**.  
+This project focuses on **data cleaning, exploration, and visualization** while investigating the **impact of Covid-19 on unemployment trends**.  
 
 ---
 
@@ -26,7 +26,7 @@ This project uses **real-world unemployment data** to:
 - Identify **seasonal patterns** in unemployment  
 - Provide insights that could inform **economic and social policies**  
 
-The project demonstrates the use of **Python for Data Analysis** with libraries like Pandas and Matplotlib.  
+The project demonstrates the use of **Python for Data Analysis** with libraries like **Pandas** and **Matplotlib**.  
 
 ---
 
@@ -56,8 +56,8 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 ## ⚙️ Installation  
 
 1. **Clone the repository**  
-```bash
-git clone https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis.git
+   ```bash
+   git clone https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis.git
 Navigate to the project folder
 
 bash
@@ -73,40 +73,35 @@ Run the project
 bash
 Copy code
 python unemployment_analysis.py
-## 🎮 How to Use
+🎮 How to Use
 When you run the script, it will:
 
 Show the first few rows of the dataset
 
-Display data info & summary
+Display dataset info & summary statistics
 
 Generate visualizations:
 
-Line chart → Unemployment over time
+📈 Line chart → Unemployment over time
 
-Bar chart → Average unemployment by year
+📊 Bar chart → Average unemployment by year
 
-Boxplot → Monthly trends
+📦 Boxplot → Monthly trends
 
 Print comparison of 2019 vs 2020 unemployment rates
 
 Save the cleaned dataset as cleaned_unemployment.csv
 
-## 📸 Screenshots  
+📸 Screenshots
+▶ Line Chart – Unemployment Over Time
 
-### ▶ Line Chart – Unemployment Over Time  
-![Line Chart](1.png)  
+▶ Bar Chart – Average Unemployment Rate by Year
 
-### ▶ Bar Chart – Average Unemployment Rate by Year  
-![Bar Chart](2.png)  
+▶ Boxplot – Monthly Seasonal Trends
 
-### ▶ Boxplot – Monthly Seasonal Trends  
-![Boxplot](3.png)  
+▶ Code Output – Console Results
 
-### ▶ Code  – Code Output
-![Code ](4.png)  
-
-## 🚧 Future Enhancements
+🚧 Future Enhancements
 Add Seaborn for advanced visualization
 
 Build an interactive dashboard using Plotly/Dash
@@ -117,10 +112,13 @@ Automate report generation (PDF/Excel export)
 
 Compare unemployment with GDP growth and inflation rates
 
-## ✨ Author
-Developed by ❤️ M. Talal Liaquat ❤️
+✨ Author
+👤 M. Talal Liaquat
+📌 Student of Computer Science | Exploring AI, Data Science & Development
 
-##LinkedIn: *https://www.linkedin.com/in/talal-liaquat/*
+GitHub: TalalLiaquat
 
-## 📄 License
+LinkedIn: Talal Liaquat
+
+📄 License
 This project is licensed under the MIT License.
