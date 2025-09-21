@@ -74,7 +74,7 @@ When you run the script, it will:
 ## 📸 Screenshots
 
 ### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image](screenshots/Screenshort(101).png)
+🔗 [View Image]([screenshots/Screenshort(101).png](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshort/Screenshot%20(101).png))
 
 ### ▶ Bar Chart – Average Unemployment Rate by Year
 🔗 [View Image](screenshots/2.png)
