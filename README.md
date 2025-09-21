@@ -53,6 +53,19 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 
 ---
 
+## 📸 Screenshots
+
+### ▶ Line Chart – Unemployment Over Time
+🔗 [View Image](screenshot/1.png)
+
+### ▶ Bar Chart – Average Unemployment Rate by Year
+🔗 [View Image](screenshot/2.png)
+
+### ▶ Boxplot – Monthly Seasonal Trends
+🔗 [View Image](screenshot/3.png)
+
+### ▶ Code Output
+🔗 [View Image](screenshot/4.png)
 
 
 ---
