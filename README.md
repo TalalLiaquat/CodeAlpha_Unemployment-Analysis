@@ -71,9 +71,12 @@ bash
 Copy code
 python unemployment_analysis.py
 
+---
+
 ### 2. Navigate to the project folder
 ```bash
 cd CodeAlpha_Unemployment-Analysis
+
 3. Install dependencies
 bash
 Copy code
@@ -82,6 +85,8 @@ pip install pandas matplotlib
 bash
 Copy code
 python unemployment_analysis.py
+
+---
 
 ## 🎮 How to Use
 
