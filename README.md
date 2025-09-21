@@ -74,7 +74,7 @@ When you run the script, it will:
 ## 📸 Screenshots
 
 ### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image](screenshots/1.png)
+🔗 [View Image](screenshots/Screenshort(101).png)
 
 ### ▶ Bar Chart – Average Unemployment Rate by Year
 🔗 [View Image](screenshots/2.png)
