@@ -53,41 +53,9 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 
 ---
 
-## ⚙️ Installation  
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis.git
-2. Navigate to the project folder
-bash
-Copy code
-cd CodeAlpha_Unemployment-Analysis
-3. Install dependencies
-bash
-Copy code
-pip install pandas matplotlib
-4. Run the project
-bash
-Copy code
-python unemployment_analysis.py
 
 ---
-
-### 2. Navigate to the project folder
-```bash
-cd CodeAlpha_Unemployment-Analysis
-
-3. Install dependencies
-bash
-Copy code
-pip install pandas matplotlib
-4. Run the project
-bash
-Copy code
-python unemployment_analysis.py
-
----
-
 ## 🎮 How to Use
 
 When you run the script, it will:
@@ -101,20 +69,23 @@ When you run the script, it will:
 - Print comparison of 2019 vs 2020 unemployment rates
 - Save the cleaned dataset as `cleaned_unemployment.csv`
 
+---
+
 ## 📸 Screenshots
 
 ### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshot/1.png)
+🔗 [View Image](screenshots/1.png)
 
 ### ▶ Bar Chart – Average Unemployment Rate by Year
-🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshot/2.png)
+🔗 [View Image](screenshots/2.png)
 
 ### ▶ Boxplot – Monthly Seasonal Trends
-🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshot/3.png)
+🔗 [View Image](screenshots/3.png)
 
 ### ▶ Code Output
-🔗 [View Image](screenshot/4.png)
+🔗 [View Image](screenshots/4.png)
 
+---
 
 ## 🚧 Future Enhancements
 
@@ -130,7 +101,6 @@ When you run the script, it will:
 
 Developed by ❤️ **M. Talal Liaquat** ❤️  
 
-- GitHub: [TalalLiaquat](https://github.com/TalalLiaquat)  
 - LinkedIn: [Talal Liaquat](https://www.linkedin.com/in/talal-liaquat/)  
 
 ---
@@ -138,3 +108,4 @@ Developed by ❤️ **M. Talal Liaquat** ❤️
 ## 📄 License
 
 This project is licensed under the **MIT License**.
+
