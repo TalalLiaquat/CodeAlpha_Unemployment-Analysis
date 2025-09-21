@@ -56,7 +56,7 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 ## 📸 Screenshots
 
 ### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image]([screenshot/1.png](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshort/1.png))
+🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshort/1.png)
 
 ### ▶ Bar Chart – Average Unemployment Rate by Year
 🔗 [View Image](screenshot/2.png)
