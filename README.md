@@ -68,23 +68,7 @@ When you run the script, it will:
   - 📦 Boxplot → Monthly trends
 - Print comparison of 2019 vs 2020 unemployment rates
 - Save the cleaned dataset as `cleaned_unemployment.csv`
-
----
-
-## 📸 Screenshots
-
-### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image]([screenshots/Screenshort(101).png](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshort/Screenshot%20(101).png))
-
-### ▶ Bar Chart – Average Unemployment Rate by Year
-🔗 [View Image](screenshots/2.png)
-
-### ▶ Boxplot – Monthly Seasonal Trends
-🔗 [View Image](screenshots/3.png)
-
-### ▶ Code Output
-🔗 [View Image](screenshots/4.png)
-
+  
 ---
 
 ## 🚧 Future Enhancements
