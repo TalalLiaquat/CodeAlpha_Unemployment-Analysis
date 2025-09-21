@@ -96,8 +96,7 @@ Save the cleaned dataset as cleaned_unemployment.csv
 markdown
 Copy code
 ### ▶ Line Chart – Unemployment Over Time  
-![Line Chart](screenshots/1.png)  
-🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshots/1.png)  
+![Menu](screenshorts/1.png)  
 
 ### ▶ Bar Chart – Average Unemployment Rate by Year  
 ![Bar Chart](screenshots/2.png)  
