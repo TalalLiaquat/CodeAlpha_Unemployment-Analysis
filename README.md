@@ -53,20 +53,16 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-### ▶ Line Chart – Unemployment Over Time
-🔗 [View Image](https://github.com/TalalLiaquat/CodeAlpha_Unemployment-Analysis/blob/main/screenshort/1.png)
+### ▶ Menu  
+![Menu](screenshort/1.png)  
 
-### ▶ Bar Chart – Average Unemployment Rate by Year
-🔗 [View Image](screenshot/2.png)
+### ▶ Adding an Event  
+![Add Event](screenshort/2.png)  
 
-### ▶ Boxplot – Monthly Seasonal Trends
-🔗 [View Image](screenshot/3.png)
-
-### ▶ Code Output
-🔗 [View Image](screenshot/4.png)
-
+### ▶ Viewing Events  
+![View Events](screenshort/3.png)  
 
 ---
 ## 🎮 How to Use
