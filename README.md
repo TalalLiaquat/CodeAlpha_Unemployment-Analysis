@@ -55,13 +55,13 @@ The project demonstrates the use of **Python for Data Analysis** with libraries 
 
 ## 📸 Screenshots  
 
-### ▶ Menu  
+### ▶ Graph 
 ![Menu](screenshort/1.png)  
 
-### ▶ Adding an Event  
+### ▶ Unemployment Rate by Year
 ![Add Event](screenshort/2.png)  
 
-### ▶ Viewing Events  
+### ▶ Unemployment Rate by Month
 ![View Events](screenshort/3.png)  
 
 ---
