@@ -4,7 +4,7 @@ A beginner-friendly **Python project** to analyze and visualize unemployment dat
 This project focuses on data cleaning, exploration, and visualization while investigating the **impact of Covid-19 on unemployment trends**.  
 
 --- 
-
+ 
 ## 📋 Table of Contents  
 - 📚 Project Overview  
 - 🚀 Features  
